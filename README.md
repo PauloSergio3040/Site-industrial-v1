@@ -1,5 +1,3 @@
-# Gestor.ink
-
 # Hi, I'm Paulo! :D
 
 ## 🖊 Contato
